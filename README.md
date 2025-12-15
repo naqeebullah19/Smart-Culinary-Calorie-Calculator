@@ -1,4 +1,5 @@
 # Smart-Culinary-Calorie-Calculator
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/YourNotebook.ipynb)
 
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
